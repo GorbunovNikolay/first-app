@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="416ab660-8eb6-4999-91a2-a4bc36386f2a" name="Changes" comment="Add main.kt">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="416ab660-8eb6-4999-91a2-a4bc36386f2a" name="Changes" comment="Add gitignore idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +83,28 @@
       <option name="project" value="LOCAL" />
       <updated>1637672579083</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update welcome message &quot;First App!&quot;">
+      <created>1637673007210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637673007210</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add gitignore .idea">
+      <created>1637673136574</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637673136574</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add gitignore idea">
+      <created>1637673192212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637673192212</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +121,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update &quot;.gitignore&quot;" />
     <MESSAGE value="Add main.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add main.kt" />
+    <MESSAGE value="Update welcome message &quot;First App!&quot;" />
+    <MESSAGE value="Add gitignore .idea" />
+    <MESSAGE value="Add gitignore idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore idea" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
